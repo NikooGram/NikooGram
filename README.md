@@ -3,7 +3,7 @@
   
   Actualmente resido en Alemania asi que tambien estoy mayormente estudiando Aleman.
   
-  Aun asi no dejo atras ninguna de las dos cosas. Amo estudiar lo que sea, y la programacion capto mi atencion desde que toque mi primera Pc a mis 8 y 9 años. 
+  Aun asi no dejo atras ninguna de las dos cosas. Amo estudiar lo que sea, y la programacion capto mi atencion desde que toque mi primera Pc a mis 8 u 9 años. 
 
   Si deseas contactarme por lo que sea, dejame un comentario estare atento!
 <!--
