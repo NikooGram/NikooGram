@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Niko banner" width="180%" />
+</p>
+
+
 ## 👋 ¡Hola, soy Nikoo!
 
 ### 💫 Sobre mí
