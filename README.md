@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Niko banner" width="180%" />
+  <img src="Banner.png" alt="Niko banner" width="50%" />
 </p>
 
 
