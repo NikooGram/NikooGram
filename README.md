@@ -7,7 +7,7 @@
 
 ### 💫 Sobre mí
 
-¡Hola! Soy un joven programador de **16 años**, nacido en **Colombia** y actualmente viviendo en **Alemania**. Desde muy pequeño me ha apasionado la tecnología, y ahora estoy completamente enfocado en desarrollar mis habilidades como desarrollador de software. 💻✨
+¡Hola! Soy un joven programador de **17 años**, nacido en **Colombia** y actualmente viviendo en **Alemania**. Desde muy pequeño me ha apasionado la tecnología, y ahora estoy completamente enfocado en desarrollar mis habilidades como desarrollador de software. 💻✨
 
 Me considero una persona **curiosa**, **autodidacta** y con muchísimas ganas de aprender y crecer en el mundo tech. Siempre estoy buscando nuevos retos, tecnologías por explorar y proyectos donde pueda aportar valor, seguir aprendiendo y, por qué no, sobresalir 🚀.
 
@@ -19,7 +19,7 @@ Si estás buscando a alguien con **energía, motivación** y muchas ganas de hac
 
 ### 💫 About Me
 
-Hi there! I'm a **16-year-old** passionate programmer, originally from **Colombia** and currently living in **Germany**. From a young age, technology has fascinated me, and now I'm fully focused on developing my skills as a software developer. 💻✨
+Hi there! I'm a **17-year-old** passionate programmer, originally from **Colombia** and currently living in **Germany**. From a young age, technology has fascinated me, and now I'm fully focused on developing my skills as a software developer. 💻✨
 
 I'm a **curious, self-taught learner** with a strong desire to grow, take on challenges, and stand out through dedication and continuous improvement. I'm always looking for exciting projects where I can contribute, learn from others, and push my limits. 🚀
 
