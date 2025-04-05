@@ -39,7 +39,7 @@ If you're looking for someone **driven, enthusiastic**, and eager to grow with y
 ### 📫 Contacto // Contact
 
 - 📧 Email: NikooGram807@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: in/nikoogram
 - 🌐 Portfolio: 
 
 ---
